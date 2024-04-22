@@ -1,0 +1,1 @@
+powerup_time -= delta_time / 1000000; //Decreases by one second every tick.
